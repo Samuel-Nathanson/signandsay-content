@@ -4,19 +4,19 @@
     "tiles": [
       {
         "label": "Cat",
-        "photoURL": "https://Samuel-Nathanson.github.io/signandsay-content/images/cat.png",
+        "photoURL": "https://raw.githubusercontent.com/Samuel-Nathanson/signandsay-content/main/images/cat.png",
         "audioURL": null,
         "useTTS": true
       },
       {
         "label": "Dog",
-        "photoURL": "https://Samuel-Nathanson.github.io/signandsay-content/images/dog.png",
+        "photoURL": "https://raw.githubusercontent.com/Samuel-Nathanson/signandsay-content/main/images/dog.png",
         "audioURL": null,
         "useTTS": true
       },
       {
         "label": "Elephant",
-        "photoURL": "https://Samuel-Nathanson.github.io/signandsay-content/images/elephant.png",
+        "photoURL": "https://raw.githubusercontent.com/Samuel-Nathanson/signandsay-content/main/images/elephant.png",
         "audioURL": null,
         "useTTS": true
       }
@@ -27,19 +27,19 @@
     "tiles": [
       {
         "label": "Happy",
-        "photoURL": "https://Samuel-Nathanson.github.io/signandsay-content/images/happy.png",
+        "photoURL": "https://raw.githubusercontent.com/Samuel-Nathanson/signandsay-content/main/images/happy.png",
         "audioURL": null,
         "useTTS": true
       },
       {
         "label": "Sad",
-        "photoURL": "https://Samuel-Nathanson.github.io/signandsay-content/images/sad.png",
+        "photoURL": "https://raw.githubusercontent.com/Samuel-Nathanson/signandsay-content/main/images/sad.png",
         "audioURL": null,
         "useTTS": true
       },
       {
         "label": "Angry",
-        "photoURL": "https://Samuel-Nathanson.github.io/signandsay-content/images/angry.png",
+        "photoURL": "https://raw.githubusercontent.com/Samuel-Nathanson/signandsay-content/main/images/angry.png",
         "audioURL": null,
         "useTTS": true
       }
