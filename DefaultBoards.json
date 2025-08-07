@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Animals",
+    "tiles": [
+      {
+        "label": "Cat",
+        "photoURL": "https://Samuel-Nathanson.github.io/signandsay-content/images/cat.png",
+        "audioURL": null,
+        "useTTS": true
+      },
+      {
+        "label": "Dog",
+        "photoURL": "https://Samuel-Nathanson.github.io/signandsay-content/images/dog.png",
+        "audioURL": null,
+        "useTTS": true
+      },
+      {
+        "label": "Elephant",
+        "photoURL": "https://Samuel-Nathanson.github.io/signandsay-content/images/elephant.png",
+        "audioURL": null,
+        "useTTS": true
+      }
+    ]
+  },
+  {
+    "name": "Emotions",
+    "tiles": [
+      {
+        "label": "Happy",
+        "photoURL": "https://Samuel-Nathanson.github.io/signandsay-content/images/happy.png",
+        "audioURL": null,
+        "useTTS": true
+      },
+      {
+        "label": "Sad",
+        "photoURL": "https://Samuel-Nathanson.github.io/signandsay-content/images/sad.png",
+        "audioURL": null,
+        "useTTS": true
+      },
+      {
+        "label": "Angry",
+        "photoURL": "https://Samuel-Nathanson.github.io/signandsay-content/images/angry.png",
+        "audioURL": null,
+        "useTTS": true
+      }
+    ]
+  }
+]
+
